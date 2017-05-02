@@ -12,7 +12,7 @@ Melakukan install service seperti SSH,VPN,Dropbear dll dengan script auto instal
 Caranya:
 
     Login VPS
-    wget https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/debian7-32.sh
+    wget https://raw.githubusercontent.com/Masrubai/AutoInstallVPS/master/debian7-32.sh
     chmod +x debian7-32.sh
     ./debian7-32.sh
     tunggu sampai proses selesai > reboot vps anda
@@ -31,7 +31,7 @@ more cek log install
 # OCS PANEL Melakukan Install Web Panel SSH Reseller Secara otomatis.
 Caranya:
 1. Login VPS
-2. # wget https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/ocs_panel/ocs-deb7-32.sh
+2. # wget https://github.com/Masrubai/AutoInstallVPS/blob/master/ocs_panel/ocs-deb7-32.sh
 3. # chmod +x ocs-deb7-32.sh
 4. # ./ocs-deb7-32.sh
 5. Ikuti proses sampai selesai
@@ -41,7 +41,7 @@ Melakukan Konfigurasi Web SSH dan VPN Secara otomatis.
 Caranya:
 
     Login VPS
-    wget https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/simplewebssh/simplewebssh.sh
+    wget https://github.com/Masrubai/AutoInstallVPS/blob/master/simplewebssh/simplewebssh.sh
     chmod +x simplewebssh.sh
     ./simplewebssh.sh
     Ikuti proses sampai selesai 
